@@ -1,0 +1,23 @@
+
+/* Mobile */
+@media (max-width: 740px) {
+    /* làm cái này để các cái thẻ chuyển từ chiều dọc sang chiều ngang  */
+    #nav > li {
+        display: block;
+    }
+
+    /* Cái này là làm cho nút search bị ẩn đi */
+    #header .search-btn {
+        display: none;
+    }
+}
+
+/* Tablet */
+@media (min-width: 740px) and (max-width: 1023px) {
+
+}
+
+/* PC */
+@media (min-width: 1024px) {
+
+}

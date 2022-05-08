@@ -195,7 +195,7 @@ thừa chiều ngang thì thêm float vào thì nó sẽ mất thuộc tính k�
     /* padding-top: 50%; là chiều ngang của chính nó */
     padding-top: 50%;
 
-    background: url('/asests/img/slider/Band/chicago.jpg') top center / cover no-repeat;
+    background: url('../img/slider/Band/chicago.jpg') top center / cover no-repeat;
 }
 
 #slider .text-content {

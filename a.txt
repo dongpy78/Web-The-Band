@@ -1,0 +1,6 @@
+1. Viết chương trình kiểm tra số tự nhiên n nhập vào từ bàn phím có phải số nguyên tố hay không ?
+2. Viết chương trình in ra bảng cữu chương theo n (2<=n<=9) nhập vào từ bàn phím. Lưu ý có điều kiện !
+3. Viết chương trình nhập vào một mảng số nguyên, sau đó thực hiện các yêu cầu sau: 
+- sắp xếp mảng tăng dần.
+- đếm số phần từ chẵn trong mảng.
+- kiểm tra xem trong mảng có số nguyên tố hay không. Nếu có thì in ra màn hình
